@@ -1,0 +1,1 @@
+This is my first learning project repository to learn the concepts of GIT
